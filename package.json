@@ -1,0 +1,23 @@
+{
+  "name": "improved-rotary-phone",
+  "version": "1.0.0",
+  "description": "Playwright python automation to check for qualifying jobs",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamLav24/improved-rotary-phone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CamLav24/improved-rotary-phone/issues"
+  },
+  "homepage": "https://github.com/CamLav24/improved-rotary-phone#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.9"
+  }
+}
