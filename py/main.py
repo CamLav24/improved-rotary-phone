@@ -5,7 +5,7 @@ import random
 import time
 from dotenv import load_dotenv
 
-import py.web_core as web_core 
+import web_core as web_core 
 
 if __name__ == "__main__":
     load_dotenv()
